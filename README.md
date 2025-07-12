@@ -17,4 +17,4 @@ UAV-Collab-Avoidance/
     └── simulink/      # 航迹仿真模型
 ```
 
-[获奖名单公示]{https://www.m2ct.org/view-page.jsp?editId=8&uri=0B00288&gobackUrl=modular-list.jsp&pageType=xwdt&menuType=}
+[获奖名单公示]{https://www.m2ct.org/view-page.jsp?editId=8&uri=0B00288&gobackUrl=modular-list.jsp&pageType=xwdt&menuType= }
